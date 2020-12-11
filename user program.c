@@ -1,4 +1,5 @@
 // This code is used to communicate with the driver we have inserted(normal character device driver) 
+//This code can write interger to our inserted driver
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
