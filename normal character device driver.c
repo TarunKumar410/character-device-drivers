@@ -1,3 +1,4 @@
+//this sample character driver which take interger data from user space
 #include<linux/kernel.h>
 #include<linux/init.h>
 #include<linux/module.h>//for kernel module
